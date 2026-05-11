@@ -15,7 +15,7 @@
 
 </div>
 
-## 🚀 One-Click Installation
+## 🚀 One-Click Installation:
 
 1. **Download** the package using the button above
 2. **Extract** the archive to your preferred directory
